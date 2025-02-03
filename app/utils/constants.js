@@ -1,11 +1,9 @@
 export const COLORS = {
-  DARK_BLUE: '#13131A',
-  MEDIUM_YELLOW: '#FFD650',
-  WHITE_TEXT: '#E2E2E2',
-  ERROR_RED: '#FF0000',
-  GREEN_SUCCESS: '#00FF00',
-  MEDIUM_PURPLE: '#4630EB',
-  ASH_GRAY: '#B2BEB5',
+  LIGHT_PURPLE: '#8a86e2',
+  HEART_RED: '#C12D2D',
+  DARK_GRAY: '#32313A',
+  LIGHT_WHITE: '#fcfeff',
+  LIGHT_PINK: '#df90c4',
 };
 
 export const REGEX = {
